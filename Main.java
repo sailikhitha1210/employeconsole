@@ -13,7 +13,6 @@ public class Main {
                 ArrayList <String> emp = new ArrayList<>();
                 ArrayList <String> Desg = new ArrayList<>();
                 ArrayList <Double>  Sal= new ArrayList<>();
-                // ArrayList <Double> salary =new ArrayList<Double>();
                 while(true){
                     System.out.println("enter 1  to show all the employee records");
                     System.out.println("enter 2Add employee ");
